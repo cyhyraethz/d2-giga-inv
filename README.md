@@ -1,6 +1,6 @@
 ## Giga Inventory Mod
 
-This Mod expands the inventory of a character, stash and cube
+This Mod expands the stash, cube, and inventory of a character
 
 It is based on the Extended Stash Mod (from [The Phrozen Keep](https://d2mods.info/home.php))  
 and increases character inventory from a 4x10 grid to a 9x10 grid
