@@ -2,6 +2,14 @@
 
 This mod expands the stash, cube, and inventory of a character
 
+### Features
+
+- Expands the stash from a 6x8 grid to a 10x10 grid
+
+- Expands horadric cube from a 3x4 grid to an 8x10 grid
+
+- Expands character inventory from a 4x10 grid to a 9x10 grid
+
 ### Installation
 
 1. Backup your characters and the game folder before making any changes.
@@ -24,7 +32,7 @@ Items may be lost if character is used in a game with standard inventory size
 
 ### Credits
 
-Mhoram (For Diablo2-LOD v1.09)
+Mhoram (for Diablo2-LOD v1.09)
 
 Ravenswolf (Updated for Diablo2-LOD v1.10)
 
